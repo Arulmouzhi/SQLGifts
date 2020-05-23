@@ -9,7 +9,7 @@ GO
 -- Created By : Arulmouzhi Ezhilarasan
 -- Version    : 1.0
 -- Created On : 19/05/2020
--- Description: -- To Fetch the List of all columns of a table with their Fill Rates in %.
+-- Description: -- To Fetch the List of all columns of a table with their Fill Rates in %. 
 /******************************************************************************************************/
 CREATE OR ALTER PROCEDURE [dbo].[Get_FillRate]  
 (

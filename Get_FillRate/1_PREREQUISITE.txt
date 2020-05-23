@@ -2,21 +2,17 @@ Here, we are going to use one stored procedure named 'Get_FillRate'.
 If any one have the same object name in database, please make sure to change this stored procedure's name.
 
 
-
 SQL Procedure For Finding Fill Rate in a Table - Dynamic Approach
-
 
 Input Parameters
 Both of the Input Parameters are mandatory.
 1. @p_TableName - Data type used for this input Parameter is NVARCHAR(128) and Nullability is NOT NULL.
 2. @p_Include_BlankAsNotFilled - Data type used for this input Parameter is BIT and Nullability is NOT NULL and either 0 or 1 needs to give. 0 is by Default and 0 means OFF. 1 is ON (when given as 1 - Blank entries will be considered As Not Filled Data).
 
-
 Output Columns
 There are Two output Columns. both of those are Non Nullable Output Columns.
 1. [Column Name] - Data type used for this Output Column is sysname and Nullability is NOT NULL. All the Column Names for the user given Table Name would come as row values.
 2. [Fill Rate (%)] -  Data type used for this Output Column is DECIMAL(5,2) and Nullability is NOT NULL. Values from 0.00 to 100.00 would come in result with respective Column Names.
-
 
 Info reg Stored Procedure
 1.  Created the store Procedure named - 'Get_FillRate'.
