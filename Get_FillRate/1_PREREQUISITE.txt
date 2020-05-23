@@ -1,0 +1,2 @@
+Here, we are going to use one stored procedure named 'Get_FillRate'. 
+If any one have the same object name in database, please make sure to change this stored procedure's name.
