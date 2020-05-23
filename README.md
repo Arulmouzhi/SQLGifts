@@ -3,14 +3,14 @@
 ### Introduction
 The Fill rate is one of the most important metric in many of the business related decisions. So Knowing Fill Rate is one of the essential tasks in Data Analysis Processes.
 
-**Sample Table**
+### Sample Table
 
 ![](./Get_FillRate/Images/TestEmp_Table.jpg)
 
 
 
 
-**Output Result Set of Get_FillRate SP**
+### Output Result Set of Get_FillRate SP
 
 ![](./Get_FillRate/Images/Get_FillRate_Output.jpg)
 
