@@ -1,5 +1,7 @@
 # Finding Fill Rate of Table :slightly_smiling_face:
 
+![](https://img.shields.io/github/repo-size/Arulmouzhi/SQLGifts)
+
 ### Introduction
 The Fill Rate is one of the most important metric in many of the business related decisions. So Knowing Fill Rate is one of the essential tasks in Data Analysis Processes.
 
@@ -32,3 +34,6 @@ The Schema changes like below things makes our Fill Rate approach little diffic
 * Adding New Columns
 
 Due to the above challenges, we cannot simply go for Static Solution to find Fill Rate of a table. Instead, we need something like Dynamic Approach to avoid our future re-works.
+
+![](https://img.shields.io/github/stars/Arulmouzhi/SQLGifts?style=social)     
+![](https://img.shields.io/github/watchers/Arulmouzhi/SQLGifts?style=social)
