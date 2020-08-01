@@ -35,8 +35,9 @@ The Schema changes like below things makes our Fill Rate approach little diffic
 
 Due to the above challenges, we cannot simply go for Static Solution to find Fill Rate of a table. Instead, we need something like Dynamic Approach to avoid our future re-works.
 
-</br>
+<br />
 
---
+---
 
-![](https://img.shields.io/github/stars/Arulmouzhi/SQLGifts?style=social)	![](https://img.shields.io/github/watchers/Arulmouzhi/SQLGifts?style=social)
+![](https://img.shields.io/github/stars/Arulmouzhi/SQLGifts?style=social)	
+![](https://img.shields.io/github/watchers/Arulmouzhi/SQLGifts?style=social)
