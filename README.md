@@ -33,7 +33,7 @@ The Schema changes like below things makes our Fill Rate approach little diffic
 * Removing Existing columns
 * Adding New Columns
 
-Due to the above challenges, we cannot simply go for Static Solution to find Fill Rate of a table. Instead, we need something like Dynamic Approach to avoid our future re-works.
+Due to the above challenge's, we cannot simply go for Static Solution to find Fill Rate of a table. Instead, we need something like Dynamic Approach to avoid our future re-works.
 
 <br />
 
